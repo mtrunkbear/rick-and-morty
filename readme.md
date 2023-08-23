@@ -30,11 +30,5 @@ Este proyecto es una aplicación web que muestra una lista de personajes humanos
 
 - Se implementó paginación para manejar grandes listas de personajes.
 - TypeScript se utiliza en todo el proyecto para un código más seguro.
-- Se busco siguir buenas prácticas de organización de código .
+- Se busco seguir buenas prácticas de organización de código .
 - Se añadió una animaciónes y algunos estilos personalizados.
-
-## Créditos
-
-Este proyecto fue creado por [Tu Nombre] como parte de una tarea/prueba técnica. Se basa en la serie "Rick and Morty" creada por Justin Roiland y Dan Harmon.
-
-## Licencia
